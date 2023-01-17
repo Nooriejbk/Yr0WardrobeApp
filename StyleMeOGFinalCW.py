@@ -8,14 +8,14 @@ def open_app():
     back="main" #Used for when moving to other screens
 
     #\\\Does this even work?///
-    conn = sqlite3.connect('styleme.db')
-    cursor = conn.cursor()
-    sql = "select * from items"
-    results = cursor.execute(sql)
-    all_items = results.fetchall()
-    for items in all_items:
-        print (items)
-    cursor.close()
+    #conn = sqlite3.connect('styleme.db')
+    #cursor = conn.cursor()
+    #sql = "select * from items"
+    #results = cursor.execute(sql)
+    #all_items = results.fetchall()
+    #for items in all_items:
+    #    print (items)
+    #cursor.close()
     
     consistency(main) #sets a style for all windows (size, bgcolour)
   
