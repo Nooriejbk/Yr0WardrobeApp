@@ -25,11 +25,17 @@ Features of this version include:
     - .png only
 
 Things I have not yet accomplished but have tried:
+    
     - AddToCollection function
+    
     - adding items to list or database
+    
     - Displaying images other than .png
+    
     - All sqlite stuff
+    
     - displaying images on buttons in wardrobe + outifts
-    ->(check open_wardrobe for attempt)
+    
+->(check open_wardrobe for attempt)
 	
 
