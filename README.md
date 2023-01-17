@@ -9,8 +9,8 @@ their personal “lookbook” on their phone for easy access to all their
 clothes and to help save time when planning what to wear for the day. 
 
 This is my first version of the application and I hope to continue
-working on it throughout the summer. The original idea I had for the
-application was a lot more complex than the one i made and have
+working on it at some point. The original idea I had for the
+application was a lot more complex than the one I made and have
 submitted for this coursework.
 
 Features of this version include:
@@ -25,14 +25,11 @@ Features of this version include:
     - .png only
 
 Things I have not yet accomplished but have tried:
-    AddToCollection function
-    -adding items to list or database
-
-    Displaying images other than .png
-
-    All sqlite stuff
-    
-    displaying images on buttons in wardrobe + outifts
+    - AddToCollection function
+    - adding items to list or database
+    - Displaying images other than .png
+    - All sqlite stuff
+    - displaying images on buttons in wardrobe + outifts
     ->(check open_wardrobe for attempt)
 	
 
