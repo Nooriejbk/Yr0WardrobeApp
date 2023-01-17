@@ -14,6 +14,7 @@ application was a lot more complex than the one I made and have
 submitted for this coursework.
 
 Features of this version include:
+
     - Wardrobe (unordered and uncatagorised)
     - Outfits page
     - Basic item page
